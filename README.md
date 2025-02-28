@@ -39,7 +39,9 @@ This project was built as part of my **#100DaysOfCode** challenge while learning
 🔗 Follow My Coding Journey:
 
 LinkedIn: https://www.linkedin.com/in/sohammahajan788
+
 Twitter (X): https://x.com/SohamMahajan788
+
 GitHub: https://github.com/SohamMahajan788
 
 Happy coding! 🚀🐍
