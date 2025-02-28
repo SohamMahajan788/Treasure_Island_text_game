@@ -29,6 +29,8 @@
 ## 💡 Inspiration  
 This project was built as part of my **#100DaysOfCode** challenge while learning **Conditional Statements, Logical Operators, and Scope** in Python.  
 
+![Screenshot 2025-02-28 230034](https://github.com/user-attachments/assets/69b857f0-3145-4218-af2c-9138547800ef)
+
 ## 🏆 What's Next?  
 - Add a **GUI version** using Tkinter or Pygame  
 - More story branches for richer gameplay  
