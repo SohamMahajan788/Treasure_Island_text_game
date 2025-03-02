@@ -35,6 +35,7 @@ This project was built as part of my **#100DaysOfCode** challenge while learning
 - Add a **GUI version** using Tkinter or Pygame  
 - More story branches for richer gameplay  
 - Inventory & points system  
+****************************************
 
 🔗 Follow My Coding Journey:
 
@@ -43,5 +44,15 @@ LinkedIn: https://www.linkedin.com/in/sohammahajan788
 Twitter (X): https://x.com/SohamMahajan788
 
 GitHub: https://github.com/SohamMahajan788
+****************************************
+
+🔗 Contribution
+
+- Feel free to fork this project and improve upon it! 🚀
+
+🌟 Star This Repo If you like this project, consider starring it on GitHub!
 
 Happy coding! 🚀🐍
+
+📚 Created by Soham Mahajan
+
